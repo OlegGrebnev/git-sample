@@ -4,4 +4,4 @@ Add one more line
 123243
 create branch dev
 this change from master branch
-change for git rebase
+change for git rebase one more
