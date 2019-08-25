@@ -1,7 +1,5 @@
 Hello Git 123
 Add new line
-<<<<<<< HEAD
 Add one more line
 123243
-=======
->>>>>>> parent of a0b0cb8... test status
+create branch dev
